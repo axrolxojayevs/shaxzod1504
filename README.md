@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaxzod1504
-- 👀 I’m interested in Artificial Intlegence
+
 - 🌱 I’m currently learning Full stack development
 - 💞️ I’m looking to collaborate on e commerce projects
 - 📫 How to reach me axrolxojayevs.t.me
